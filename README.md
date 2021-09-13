@@ -8,3 +8,4 @@ Next, we cleaned up the data to make it easier to work with. This includes remov
 
 Lastly, we utilized statistical analysis to better understand the data, as well as visualization of the data in the form of graphs/charts.
 
+The result of this challenge shows us how much one could have secured arbitrage profits on the cryptocurrency market during Q1 2018.
