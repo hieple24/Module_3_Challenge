@@ -1,4 +1,4 @@
-# Module_3_Challenge
+# Module 3 Challenge
 
 In this challenge, I have explored potential bitcoin arbitrage opportunities from January 2018 - March 2018. We used data from two cryptocurrency exchange platforms: Coinbase and Bitstamp.
 
